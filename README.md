@@ -83,7 +83,7 @@ March 2026 · v4
 
 Seeking collaborators for: expanded testing, formal evaluation, Chinese-language support, DSPy Phase 2.
 
-📧 basazak1@ai-iw-synchub.com
+📧 basazak1@gmail.com
 
 ---
 
